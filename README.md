@@ -13,7 +13,7 @@ HomeTail is a Java-based web application for managing and finding homes for anim
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/hometail.git
+   git clone https://github.com/yonatanle/hometail.git
    cd hometail
    ```
 
