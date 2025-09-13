@@ -69,12 +69,6 @@ java -jar target/hometail-0.0.1-SNAPSHOT.jar
    docker-compose up -d
    ```
 
-## API Documentation
-
-Once the application is running, you can access the API documentation at:
-- Swagger UI: http://localhost:9090/swagger-ui.html
-- API Docs (JSON): http://localhost:9090/v3/api-docs
-
 ## Project Structure
 
 ```
